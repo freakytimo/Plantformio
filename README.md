@@ -1,2 +1,4 @@
 - Used board: https://devices.esphome.io/devices/AC-DC-ESP32-Relay-x4
 - Programmed with Plattformio and OTA Updates
+- The fan speed is controlled with PWM
+- The 4 relais can be controlled manually or with a timer function
