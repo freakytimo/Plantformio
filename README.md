@@ -1,2 +1,2 @@
--Used board: https://devices.esphome.io/devices/AC-DC-ESP32-Relay-x4
+- Used board: https://devices.esphome.io/devices/AC-DC-ESP32-Relay-x4
 - Programmed with Plattformio and OTA Updates
